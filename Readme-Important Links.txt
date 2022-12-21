@@ -1,0 +1,10 @@
+Youtube
+https://www.youtube.com/@Java.Brains
+https://www.youtube.com/@Javatechie
+https://www.youtube.com/@SpringSourceDev
+https://www.youtube.com/@academind
+https://www.youtube.com/@TheTechCave
+https://www.youtube.com/@freecodecamp
+https://www.youtube.com/@Fireship
+https://www.youtube.com/@JakobJenkov
+https://www.youtube.com/@TheCodingTrain
